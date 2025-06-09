@@ -40,6 +40,7 @@ body {
   background-color: var(--highlight-color);
   padding: 20px;
   border-radius: 15px;
+  list-style: none;
 }
 
 .message-text-input {
